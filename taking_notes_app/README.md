@@ -37,6 +37,7 @@
 
   ## Demo
 
+[note_taker_demo.webm](https://github.com/RanilSD/easy_note_taker/assets/139150974/90ea36b6-46c8-42db-a312-7ac0435b56cf)
 
 
   ## Questions
